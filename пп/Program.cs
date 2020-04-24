@@ -10,6 +10,7 @@ namespace пп
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Собака");
         }
     }
 }
